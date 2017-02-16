@@ -1,4 +1,4 @@
-#目录
+## 目录
 
 1. [第一章 有目的的联系](https://github.com/happywc/readbooks/blob/master/peak/chapter1)
 2. [第二章 大脑的适应能力](https://github.com/happywc/readbooks/blob/master/peak/chapter2)
