@@ -1,6 +1,6 @@
 ## 目录
 
-1. [第一章 有目的的联系](chapter1.md)
+1. [第一章 有目的的练习](chapter1.md)
 2. [第二章 大脑的适应能力](chapter2.md)
 3. [第三章 心理表征](chapter3.md)
 4. [第四章 黄金标准](chapter4.md)
